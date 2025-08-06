@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, eu sou [Seu Nome] <!-- Troque pelo seu nome -->
 
-<!--
-**MROSCRIPTS/MROSCRIPTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📺 Acompanhe meu canal no YouTube com dicas, tutoriais e gameplays:
+[![YouTube Channel](https://img.shields.io/badge/YouTube-mroplayer666-red?logo=youtube)](https://youtube.com/@mroplayer666?si=IqOe-MyeS5WbGE82)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark)
+
+---
+
+🔗 Me siga e acompanhe novidades!
+
