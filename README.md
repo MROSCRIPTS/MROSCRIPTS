@@ -10,5 +10,6 @@
 
 ---
 
-🔗 Me siga e acompanhe novidades!
+📂 Acesse meus scripts em: [github.com/MROSCRIPTS/SCRIPTS](https://github.com/MROSCRIPTS/SCRIPTS)
 
+🔗 Me siga e acompanhe novidades!
