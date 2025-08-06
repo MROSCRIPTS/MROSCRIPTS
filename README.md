@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou [Seu Nome] <!-- Troque pelo seu nome -->
+## 👋 Olá, eu sou MRO e faço scripts
 
 📺 Acompanhe meu canal no YouTube com dicas, tutoriais e gameplays:
 [![YouTube Channel](https://img.shields.io/badge/YouTube-mroplayer666-red?logo=youtube)](https://youtube.com/@mroplayer666?si=IqOe-MyeS5WbGE82)
